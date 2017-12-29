@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/94caeb979d841acb1caa55940a43a8e952c73e9e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/9d6f8e6aaf247150de35134e0c2d364ce397a8e8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/7f6cffaac650206af87d2d7b9bf8dd986c9b7121/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/a18d6b376cc40d2e6bcbfdc744050a7c18cdeade/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/db424b74854fe86db477059262868eefe61fa818/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/99c40088bee23b678995893673c62b98894cac48/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/2d608156af46555d5f95510937a75df46d4ab5cd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/8c42ffad9cec9a2f54f8d02410a0f2d3745d4ba3/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/94caeb979d841acb1caa55940a43a8e952c73e9e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/9d6f8e6aaf247150de35134e0c2d364ce397a8e8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/7f6cffaac650206af87d2d7b9bf8dd986c9b7121/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/a18d6b376cc40d2e6bcbfdc744050a7c18cdeade/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/db424b74854fe86db477059262868eefe61fa818/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/99c40088bee23b678995893673c62b98894cac48/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/2d608156af46555d5f95510937a75df46d4ab5cd/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/8c42ffad9cec9a2f54f8d02410a0f2d3745d4ba3/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.coleccioncds.MainActivity
+ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:17:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/src/main/AndroidManifest.xml:22:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/94caeb979d841acb1caa55940a43a8e952c73e9e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/9d6f8e6aaf247150de35134e0c2d364ce397a8e8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/7f6cffaac650206af87d2d7b9bf8dd986c9b7121/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/a18d6b376cc40d2e6bcbfdc744050a7c18cdeade/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/db424b74854fe86db477059262868eefe61fa818/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/99c40088bee23b678995893673c62b98894cac48/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/2d608156af46555d5f95510937a75df46d4ab5cd/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/8c42ffad9cec9a2f54f8d02410a0f2d3745d4ba3/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/AndroidManifest.xml:26:9-47

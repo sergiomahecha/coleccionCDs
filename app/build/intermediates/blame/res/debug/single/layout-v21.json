@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColeccionCDs</string>
+    <string name="action_settings">Agregar Disco</string>
+    <string name="borrar">Borrar Disco</string>
+     <string name="orden_estilo">Ordenar Por Estilo</string>
+      <string name="orden_publicacion">Ordenar Por Año</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="estilo_pop">POP</string>
+    <string name="estilo_rock">ROCK</string>
+    <string name="estilo_folk">FOLK</string>
+    <string name="estilo_clasica">CLÁSICA</string>
+    <string name="texto_entrada_autor">Autor</string>
+    <string name="textEntradaTitulo">Título</string>
+    <string name="textEntradaPublicacion">Año de publicación</string>
+    <string name="text_entrada_comprado">comprado</string>
+    <string name="titulo_entrada">Nuevo DISCO</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="mensaje_nuevodiscoalmacenado">Nuevo CD almacenado</string>
+     <string name="mensaje_disco_ya_existe">Error.Ese disco ya existe</string>
+    
+
+</resources>

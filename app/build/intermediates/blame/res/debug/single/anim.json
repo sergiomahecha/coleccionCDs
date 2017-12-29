@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sergiohurtado/AndroidStudioProjects/ColeccionCDs6FicheroObjetos/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/sergiohurtado/.android/build-cache/c1954b8eab149ef65de253b4ed9452dfc9a7482c/output/res/anim/abc_slide_out_top.xml"
+    }
+]
